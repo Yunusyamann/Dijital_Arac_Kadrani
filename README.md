@@ -54,5 +54,3 @@ Bu proje MIT Lisansı ile lisanslanmıştır. Detaylar için `LICENSE` dosyasın
 
 **Yunus Yaman**  
 📍 Kahramanmaraş Sütçü İmam Üniversitesi  
-🧠 Teknoloji Geliştirme Topluluğu Başkanı  
-🎯 [LinkedIn](https://linkedin.com/in/...) • [Instagram](https://instagram.com/...) • [GitHub](https://github.com/...)
